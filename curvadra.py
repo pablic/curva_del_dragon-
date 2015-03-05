@@ -18,4 +18,5 @@ print ("\n"+"Ingresa el numero de la secuencia de LA CURVA DEL DRAGON")
 print("que quieres ver :")
 p = int (raw_input())
 print("\n"+"La secuencia es : \n")
-print(curvaD(p) + "\n")
+print(curvaD(p) + "\n")# curva_del_dragon-
+# curva_del_dragon-
